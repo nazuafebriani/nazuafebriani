@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Zua</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
